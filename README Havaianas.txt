@@ -1,7 +1,3 @@
-Do código base disponibilizado pelo professor, nós do Quiz Havaianas (Equipe de número 20) reaproveitamos os seguintes itens: 
-As estruturas do HTML, CSS e grande parte das funções do JavaScript;
-Foram adicionadas variáveis para ativação em loop da musica de fundo;
-O Alinhamento do container foi alterado para primeira imagem, 
 A primeira página do site foi configurada para ser uma pergunta que não vale pontos, tem somente uma alternativa e o timer não é iniciado nessa pagina para que o
 jogador possa iniciar quando quiser, sem o quiz começar assim que abrir o site;
 As perguntas tem um valor de pontução (10) e uma alternativa correta apenas, de acordo com os dados da lista quiz;
@@ -11,8 +7,6 @@ No fim do quiz é tocado uma das musicas de vitoria ou perca, de acordo com o se
 Todas as imagens estão na pasta imagens/ e os sons na pasta sons/;
 
 Instruções de execução
-Caso queira a abrir o HTML com os arquivos linkados (separados ) é necessário colocar os arquivos (style.css e script.js) na mesma pasta (Trabalho_Avaliacao2_2MC_Havaianas20) ou em uma mesma subpasta.
-Caso queira abrir o HTML com o CSS e JS no mesmo arquivo, basta abrir a pasta Trabalho_Avaliacao2_2MC_Havaianas20/conjunto/.
 Para abrir, clique duas vezes no arquivo HTML
 
 Os navegadores usados para teste do software foram:
