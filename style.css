@@ -1,0 +1,48 @@
+
+  body { /*Configuracoes do corpo*/
+    display: flex;/*Deixa o conteudo flexivel*/
+    height: 90vh; /*Altura*/
+    font-family: Arial, sans-serif;/*Tipo da fonte*/
+    background: #f2f2f2;/*Cor de fundo*/
+    padding: 20px;/*Espaçamento interno*/
+  }
+    #overlay{/*Configuracoes da sobreposição*/
+      position: fixed;/*Fica fixado na tela mesmo se rolar ela*/
+      top: 0;/*Distancia do topo*/
+      left:0;/*Distancia da esquerda*/
+      width:100%;/*Largura*/
+      height: 100%;/*Altura*/
+      pointer-events: none;/*Deixa clicar "atraves" da cor*/
+      z-index: 0;/*Fica na base*/
+      transition: 0.5s;/*Transicao da cor*/
+     }
+  #quiz-container {/*Configuracoes da Caixa/conteiner das perguntas*/
+    position:relative; /*Conteiner em posicao relativa*/
+    z-index: 1; /*Posicao relativa 1 para overlay nao sobrepor*/
+    width: 70vw; /*Largura*/
+    max-width: 600px; /*Largura maxima*/
+    margin: auto;/*Espacamento externo automatico*/
+    background: #fff;/*Cor de fundo*/
+    padding: 20px; /*Espacamento interno*/
+    border-radius: 10px; /*Raio da borda*/
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);/*Sombra do conteiner*/
+  }
+  .question {/*Zona da pergunta*/
+    font-size: 20px;/*Tamanho da fonte*/
+    margin-bottom: 15px;/*Espacamento externo de baixo*/
+    white-space: pre-line;/*Lê os \n do HTML*/
+  }
+  #options button{/*Botao das alternativas*/
+    width: 100%;/*Largura*/
+    text-align: left;/*Posicao do texto*/
+    padding: 10px;/*Espacamento interno*/
+    margin: 5px 0;/*Espacamento externo*/
+    border: 1px solid #ccc; /*Caracteristifcas da borda*/
+    background: #eee;/*Cor de fundo*/
+    border-radius: 5px;/*Raio da borda*/
+    cursor: pointer;/*Altera o cursor para mao*/
+  }
+  #timer {/*Temporizador*/
+    font-weight: bold;/*Forca do peso*/
+    margin-bottom: 10px;/*Espacamento externo de baixo*/
+  }
