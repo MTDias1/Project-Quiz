@@ -4,12 +4,12 @@ Durante o segundo semestre de 2025, nas aulas da faculdade, iniciamos a produç�
 Em uma das atividades, foi proposto o desenvolvimento de um quiz com sistema de pontuação para exercitar os conhecimentos. Porém, senti que o desafio era simples demais para o que a linguagem podia oferecer.
 
 Buscando aprender mais sobre desenvolvimento web, decidi aprimorar o projeto, transformando-o em um quiz temático com:<br>
-• Layout responsivo
-• Timer
-• Música de fundo
-• Efeitos sonoros para respostas corretas e incorretas
-• Overlay interativo sem poluir a interface
-• Configurações diferentes dependendo se o usuário atinge ou não a pontuação de vitória
+• Layout responsivo<br>
+• Timer<br>
+• Música de fundo<br>
+• Efeitos sonoros para respostas corretas e incorretas<br>
+• Overlay interativo sem poluir a interface<br>
+• Configurações diferentes dependendo se o usuário atinge ou não a pontuação de vitória<br>
 
 Além da parte visual, pude exercitar a lógica de programação, utilizando funções, estruturas de repetição e condição, além de boas práticas como organização e documentação do código.
 
