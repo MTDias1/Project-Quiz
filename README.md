@@ -3,7 +3,7 @@ Durante o segundo semestre de 2025, nas aulas da faculdade, iniciamos a produç�
 
 Em uma das atividades, foi proposto o desenvolvimento de um quiz com sistema de pontuação para exercitar os conhecimentos. Porém, senti que o desafio era simples demais para o que a linguagem podia oferecer.
 
-Buscando aprender mais sobre desenvolvimento web, decidi aprimorar o projeto, transformando-o em um quiz temático com:
+Buscando aprender mais sobre desenvolvimento web, decidi aprimorar o projeto, transformando-o em um quiz temático com:\n
 • Layout responsivo
 • Timer
 • Música de fundo
